@@ -1,25 +1,45 @@
-# Hi there, I'm Zack Zhang (张倬玮) 👋
+# Zack Zhang (张倬玮)
 
-一个拥有**统计学背景**、具备**全栈 Demo 开发能力**与**大模型策略优化经验**的 AI 产品经理。
+AI 产品经理方向，统计学背景，关注 AI Agent、RAG、审计自动化与可落地的全栈 Demo。这个主页是我的项目入口页，适合快速了解我做过什么、每个项目解决什么问题，以及背后的产品/工程能力。
 
----
+## Project Map
 
-## 🛠️ Tech & Product Stack (技术与产品技能栈)
+### AI Agent
 
-- **AI Strategy & Tech**: LLM Evaluation, RAG Architecture, Badcase Analysis, Prompt Engineering, Prompt/Retrieve Tuning
-- **Data & Statistics**: Python, SQL, R, Mathematical Modeling, A/B Testing
-- **Full-Stack Development**: FastAPI, Vue 3, Milvus, Docker, Git
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [HarnessLab](https://github.com/ZackZhang-AI/HarnessLab) | Observable Code Agent Audit Workbench，用于代码代理行为审计、评估与工程观察。 | TypeScript, Next.js, Playwright |
+| [DeepFlow](https://github.com/ZackZhang-AI/DeepFlow) | AI 深度研究平台，多 Agent 协作完成资料收集、分析和报告撰写。 | Python, Multi-Agent, Research Workflow |
+| [ai-resume-agent](https://github.com/ZackZhang-AI/ai-resume-agent) | 面向 AI 产品经理求职场景的多 Agent 简历优化系统。 | Python, Agent Workflow, Resume Optimization |
 
----
+### RAG
 
-## 🚀 Key Projects (核心项目预览)
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [RAG-Knowledge-Base-System](https://github.com/ZackZhang-AI/RAG-Knowledge-Base-System) | 面向文档导入、知识检索与问答的 RAG 知识库系统。 | Python, RAG, Vector Search |
 
-- 🤖 **Enterprise RAG Knowledge Base**: 基于 FastAPI + Milvus + Vue 3 从0到1构建的企业级知识库，引入两阶段检索与 RAGAS 自动化评测体系。
-- 📊 **AI PM Strategy Toolkit**: (Coming Soon) 沉淀大模型效果优化、Badcase 归因分析与 A/B 测试统计学检验的工具箱。
+### 审计工具
 
----
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [audit-intern-assistant](https://github.com/ZackZhang-AI/audit-intern-assistant) | 审计资料智能归档与底稿辅助生成系统。 | Python, Document Processing, Audit Workflow |
+| [it-audit-log-sampling-assistant](https://github.com/ZackZhang-AI/it-audit-log-sampling-assistant) | IT 审计日志抽查助手，支持 Excel/CSV 日志上传、异常识别与审计关注点生成。 | Python, Data Analysis, Audit Sampling |
 
-## 📬 Contact Me (联系我)
+### 桌面工具
 
-- **Email**: zackzhang124@163.com
-- **Resume**: AI Product Manager (Available for Full-time / Internships)
+| Project | Status | What it explores |
+| --- | --- | --- |
+| downloads-butler | Private prototype | Tauri 下载目录清理与文件整理体验。 |
+| thirty-minute-brain | Private prototype | 30 分钟思考记录、整理与回顾的桌面工作流。 |
+
+## Product & Engineering Focus
+
+- AI Agent: 多角色任务拆解、工作流编排、可观察性与评估。
+- RAG: 文档导入、检索增强、知识库问答与效果优化。
+- 审计自动化: 抽样、归档、异常识别、底稿辅助生成。
+- Demo Engineering: 用 Python / TypeScript 快速搭出可验证的产品原型。
+
+## Contact
+
+- Email: zackzhang124@163.com
+- Direction: AI Product Manager / AI Application Internships
