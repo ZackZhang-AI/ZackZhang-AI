@@ -29,9 +29,9 @@ AI 产品经理方向，统计学背景，关注 AI Agent、RAG、审计自动�
 
 | Project | Status | What it explores |
 | --- | --- | --- |
-| thirty-minute-brain | Private prototype | 30 分钟思考记录、整理与回顾的桌面工作流。 |
-| read-later-regret | Private prototype | 减少稍后阅读积压与信息债的浏览器插件体验。 |
-| downloads-butler | Private prototype | Tauri 下载目录清理与文件整理体验。 |
+| [thirty-minute-brain](https://github.com/ZackZhang-AI/thirty-minute-brain) | Public project | 30 分钟思考记录、整理与回顾的桌面工作流。 |
+| [read-later-regret](https://github.com/ZackZhang-AI/read-later-regret) | Public project | 减少稍后阅读积压与信息债的浏览器插件体验。 |
+| [downloads-butler](https://github.com/ZackZhang-AI/downloads-butler) | Public project | Tauri 下载目录清理与文件整理体验。 |
 
 ## Product & Engineering Focus
 
