@@ -8,6 +8,7 @@ AI 产品经理方向，统计学背景，关注 AI Agent、RAG、审计自动�
 
 | Project | What it is | Stack |
 | --- | --- | --- |
+| [ask-me-career-agent](https://github.com/ZackZhang-AI/ask-me-career-agent) | 面向 AI 产品招聘场景的求职数字分身，通过可追问对话与事实来源呈现候选人信息。 | TypeScript, Next.js, AI Agent |
 | [HarnessLab](https://github.com/ZackZhang-AI/HarnessLab) | Observable Code Agent Audit Workbench，用于代码代理行为审计、评估与工程观察。 | TypeScript, Next.js, Playwright |
 | [DeepFlow](https://github.com/ZackZhang-AI/DeepFlow) | AI 深度研究平台，多 Agent 协作完成资料收集、分析和报告撰写。 | Python, Multi-Agent, Research Workflow |
 | [ai-resume-agent](https://github.com/ZackZhang-AI/ai-resume-agent) | 面向 AI 产品经理求职场景的多 Agent 简历优化系统。 | Python, Agent Workflow, Resume Optimization |
