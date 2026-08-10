@@ -23,7 +23,7 @@
 | --- | --- | --- | --- |
 | 个人作品集 | **[portfolio](https://github.com/ZackZhang-AI/portfolio)** | 用交互式单页网站集中呈现项目、经历与产品思考。 | [在线体验](https://portfolio-zack124.vercel.app) |
 | AI Agent | **[ask-me-career-agent](https://github.com/ZackZhang-AI/ask-me-career-agent)** | 面向招聘场景的求职数字分身，用可追问对话、事实来源与能力边界呈现候选人信息。 | [在线体验](https://ask-me-career-agent.vercel.app) |
-| Agent 评测 | **[HarnessLab](https://github.com/ZackZhang-AI/HarnessLab)** | 观察、审计和评估代码 Agent 的行为，让 Agent 工作过程更可解释。 | [查看仓库](https://github.com/ZackZhang-AI/HarnessLab) |
+| Agent 评测 | **[AgentScope](https://github.com/ZackZhang-AI/AgentScope)** | 帮助团队解释 Agent 失败、安全创建新尝试并用证据验证修复。 | [查看仓库](https://github.com/ZackZhang-AI/AgentScope) |
 | AI Agent | **[DeepFlow](https://github.com/ZackZhang-AI/DeepFlow)** | 多 Agent 协作完成资料收集、分析与深度研究报告生成。 | [查看仓库](https://github.com/ZackZhang-AI/DeepFlow) |
 | RAG | **[RAG-Knowledge-Base-System](https://github.com/ZackZhang-AI/RAG-Knowledge-Base-System)** | 覆盖文档导入、检索增强和知识库问答的完整 RAG 工作流。 | [查看仓库](https://github.com/ZackZhang-AI/RAG-Knowledge-Base-System) |
 | 审计工具 | **[it-audit-log-sampling-assistant](https://github.com/ZackZhang-AI/it-audit-log-sampling-assistant)** | 从 Excel / CSV 日志中识别异常并生成 IT 审计关注点。 | [查看仓库](https://github.com/ZackZhang-AI/it-audit-log-sampling-assistant) |
