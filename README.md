@@ -67,9 +67,12 @@
 
 ## 写作与沉淀
 
-- **[EVAL PLAYBOOK](https://portfolio-zack124.vercel.app/eval-handbook.html)** — RAG 与 Agent 评测方法的结构化沉淀：指标体系、数据集构造、错误分析。
-- **[CODING BENCHMARKS](https://portfolio-zack124.vercel.app/benchmark-coding.html)** — Coding Agent 基准测试的整理与解读。
-- **[BENCHMARK ATLAS](https://portfolio-zack124.vercel.app/benchmark-panorama.html)** — AI 评测全景图：主流 benchmark 的分类与适用场景。
+- **[Coding Benchmarks](https://portfolio-zack124.vercel.app/benchmark-coding.html)** — 从函数到产品：13 个 Coding 基准深度解读 × 1 个设计实践。
+- **[Benchmark Atlas](https://portfolio-zack124.vercel.app/benchmark-panorama.html)** — 基准的边界：23 个 LLM 基准全景研究。
+- **[AI PM Playbook](https://ai-pm-playbook.ok.kimi.link)** — AI 产品经理知识地图。
+- **[Prompt to Graph](https://prompt-to-graph.ok.kimi.link/)** — Agent 工程实践报告。
+- **[Agent Intel](https://agent-intel.ok.kimi.link)** — Agent 产品格局观察报告。
+- **[Eval Handbook](https://portfolio-zack124.vercel.app/eval-handbook.html)** — RAG 评测手册：指标体系、数据集构造、错误分析。
 
 ## 我关注的产品问题
 
