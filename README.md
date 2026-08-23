@@ -19,6 +19,7 @@
 
 ## 经历
 
+- **百度 · AI 产品经理实习生（2026.06–2026.08）** — 大模型与 AI Coding 产品评测：设计 WebDev E2E Bench 端到端评测体系（6 类 Web 任务 × 7 个维度），完成 6 个旗舰模型实测与问题归因；全流程落地后人工操作时间减少 71.4%、报告整理时间减少 73.3%，优化后千问模型复杂任务得分提升 53.03 分、输入 Token 降低 70.8%（详见下方 WebDev E2E Bench 沉淀站）。
 - **百川智能 · 实习** — 参与医疗 RAG 知识助手，负责知识库构建与检索问答链路（脱敏复刻版见下方 RAG 项目）。
 - **东北大学 · 应用统计学 · 2027 届** — 用统计与数据方法做产品判断：评测设计、抽样审计、指标体系。
 
@@ -67,6 +68,7 @@
 
 ## 写作与沉淀
 
+- **[WebDev E2E Bench](https://zackzhang.vercel.app/webdev-e2e-bench.html)** — 端到端网页评测体系：6 类任务 × 7 个维度，确定性检查 + 双视觉 Judge + 人工盲评交叉验证，经 6 个旗舰模型、36 次实测检验（百度实习期间设计）。
 - **[Coding Benchmarks](https://portfolio-zack124.vercel.app/benchmark-coding.html)** — 从函数到产品：13 个 Coding 基准深度解读 × 1 个设计实践。
 - **[Benchmark Atlas](https://portfolio-zack124.vercel.app/benchmark-panorama.html)** — 基准的边界：23 个 LLM 基准全景研究。
 - **[AI PM Playbook](https://ai-pm-playbook.ok.kimi.link)** — AI 产品经理知识地图。
