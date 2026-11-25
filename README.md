@@ -6,7 +6,7 @@
 
 应用统计学背景，关注 AI Agent、RAG、评测与审计自动化。<br>我用产品方法、数据和工程原型，把模型能力变成可验证、可交付的产品体验。
 
-[个人网站](https://portfolio-zack124.vercel.app) · [和我的 AI 分身对话](https://ask-me-career-agent.vercel.app) · [联系我](mailto:zackzhang124@163.com)
+[个人网站](https://zackzhang.vercel.app) · [和我的 AI 分身对话](https://ask-me-career-agent.vercel.app) · [下载最新简历](https://zackzhang.vercel.app/assets/docs/zack-zhang-resume-aipm.pdf?v=20261124) · [联系我](mailto:zackzhang124@163.com)
 
 </div>
 
@@ -49,7 +49,7 @@
 
 [查看仓库](https://github.com/ZackZhang-AI/RAG-Knowledge-Base-System)
 
-> 更多项目的交互式呈现见 [portfolio](https://portfolio-zack124.vercel.app)（[仓库](https://github.com/ZackZhang-AI/portfolio)）。
+> 更多项目的交互式呈现见 [portfolio](https://zackzhang.vercel.app)（[仓库](https://github.com/ZackZhang-AI/portfolio)）。
 
 ## AI Agent 系统
 
@@ -70,12 +70,12 @@
 
 ## 写作与沉淀
 
-- **[Coding Benchmarks](https://portfolio-zack124.vercel.app/benchmark-coding.html)** — 从函数到产品：13 个 Coding 基准深度解读 × 1 个设计实践。
-- **[Benchmark Atlas](https://portfolio-zack124.vercel.app/benchmark-panorama.html)** — 基准的边界：23 个 LLM 基准全景研究。
+- **[Coding Benchmarks](https://zackzhang.vercel.app/benchmark-coding.html)** — 从函数到产品：13 个 Coding 基准深度解读 × 1 个设计实践。
+- **[Benchmark Atlas](https://zackzhang.vercel.app/benchmark-panorama.html)** — 基准的边界：23 个 LLM 基准全景研究。
 - **[AI PM Playbook](https://ai-pm-playbook.ok.kimi.link)** — AI 产品经理知识地图。
 - **[Prompt to Graph](https://prompt-to-graph.ok.kimi.link/)** — Agent 工程实践报告。
 - **[Agent Intel](https://agent-intel.ok.kimi.link)** — Agent 产品格局观察报告。
-- **[Eval Handbook](https://portfolio-zack124.vercel.app/eval-handbook.html)** — RAG 评测手册：指标体系、数据集构造、错误分析。
+- **[Eval Handbook](https://zackzhang.vercel.app/eval-handbook.html)** — RAG 评测手册：指标体系、数据集构造、错误分析。
 
 ## 我关注的产品问题
 
@@ -91,5 +91,5 @@
 ## 联系方式
 
 - Email: [zackzhang124@163.com](mailto:zackzhang124@163.com)
-- Portfolio: [portfolio-zack124.vercel.app](https://portfolio-zack124.vercel.app)
+- Portfolio: [zackzhang.vercel.app](https://zackzhang.vercel.app)
 - GitHub: [github.com/ZackZhang-AI](https://github.com/ZackZhang-AI)
